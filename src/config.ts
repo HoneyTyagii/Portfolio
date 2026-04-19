@@ -170,7 +170,8 @@ contact: {
         email: "honeyt290@gmail.com",
         github: "https://github.com/HoneyTyagii",
         linkedin: "https://www.linkedin.com/in/honey-tyagi/",
-        leetcode: "https://leetcode.com/u/_HoneyTyagi_/"
+        leetcode: "https://leetcode.com/u/_HoneyTyagi_/",
+        resume: "https://drive.google.com/file/d/1vRj8SmYUlAMJtjDFmO5pY0HvJlODwhNw/view"
     },
     skills: {
         develop: {
