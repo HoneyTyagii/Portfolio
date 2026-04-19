@@ -5,11 +5,11 @@ If you are copying this code or forking this repo, please give a credit of my na
 
 ## Instructions 🛠️
 
-Go to https://honey-tyagi-portfolio.vercel.app/ and rate it :)
+Go to https://honey-tyagii-portfolio.vercel.app/ and rate it :)
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-- [Protfolio-Preview](https://honey-tyagi-portfolio.vercel.app/)
+- [Protfolio-Preview](https://honey-tyagii-portfolio.vercel.app/)
 
 ## License
 
