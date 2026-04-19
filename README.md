@@ -6,7 +6,7 @@ An immersive 3D portfolio built with React, Three.js, and GSAP featuring interac
 
 [View Portfolio](https://honey-tyagii-portfolio.vercel.app/)
 
-## Tech Stack
+## Tech Stack 
 
 - **Frontend**: React, TypeScript
 - **3D Graphics**: Three.js, React Three Fiber, React Three Drei
