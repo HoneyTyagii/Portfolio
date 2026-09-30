@@ -171,7 +171,7 @@ contact: {
         github: "https://github.com/HoneyTyagii",
         linkedin: "https://www.linkedin.com/in/honey-tyagi/",
         leetcode: "https://leetcode.com/u/_HoneyTyagi_/",
-        resume: "https://drive.google.com/file/d/1vRj8SmYUlAMJtjDFmO5pY0HvJlODwhNw/view"
+        resume: "https://drive.google.com/file/d/18Swxibj79IRmo3brt-vnDEERFPgDw5m3/view?usp=sharing"
     },
     skills: {
         develop: {
